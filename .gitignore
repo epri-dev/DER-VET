@@ -5,12 +5,12 @@
 */Results/
 
 # Data files: CSV, XML, Excel, etc.
-*.csv
+#*.csv
 *.xml
 *.xls
 *.xlsx
 *.xlsm
-*.json
+#*.json
 
 # IDE config files / folders
 *.idea

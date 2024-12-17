@@ -1,0 +1,15 @@
+,Cost ($),Benefit ($)
+Lifetime Present Value,756955.84,0.00
+Avoided Demand Charge,195961.03,0.00
+Avoided Energy Charge,529994.81,0.00
+BATTERY: es Capital Cost,31000.00,0.00
+BATTERY: es Decommissioning Cost,0.00,0.00
+BATTERY: es Fixed O&M Cost,0.00,0.00
+BATTERY: es Salvage Value,0.00,0.00
+BATTERY: es Variable O&M Cost,0.00,0.00
+ELECTRICVEHICLE2: partially controllable ev fleet Capital Cost,0.00,0.00
+ELECTRICVEHICLE2: partially controllable ev fleet Decommissioning Cost,0.00,0.00
+ELECTRICVEHICLE2: partially controllable ev fleet Fixed O&M Cost,0.00,0.00
+ELECTRICVEHICLE2: partially controllable ev fleet Salvage Value,0.00,0.00
+Federal Tax Burden,0.00,0.00
+State Tax Burden,0.00,0.00

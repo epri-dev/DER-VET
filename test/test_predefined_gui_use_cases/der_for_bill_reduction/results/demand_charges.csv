@@ -1,0 +1,2 @@
+Billing Period,Start Month,End Month,Start Time,End Time,Excluding Start Time,Excluding End Time,Weekday?,Value,Charge,Name
+15,1,12,1,24,,,2,7.016,Demand,Demand Charge

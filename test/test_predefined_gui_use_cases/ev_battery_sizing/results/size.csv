@@ -1,0 +1,4 @@
+DER,Energy Rating (kWh),Charge Rating (kW),Discharge Rating (kW),Round Trip Efficiency (%),Lower Limit on SOC (%),Upper Limit on SOC (%),Duration (hours),Capital Cost ($),Capital Cost ($/kW),Capital Cost ($/kWh),Power Capacity (kW),Quantity
+es,79.0,19.0,19.0,85.0,0.0,100.0,4.157894736842105,0.0,800.0,200.0,,
+Site Load,,,,,,,0.0,,,,0.0,
+partially controllable ev fleet,,,,,,,,0.0,,,,1.0

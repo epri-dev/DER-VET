@@ -1,0 +1,3 @@
+DER,Energy Rating (kWh),Charge Rating (kW),Discharge Rating (kW),Round Trip Efficiency (%),Lower Limit on SOC (%),Upper Limit on SOC (%),Duration (hours),Capital Cost ($),Capital Cost ($/kW),Capital Cost ($/kWh),Power Capacity (kW)
+es,9742,2575,2575,91,0,100,3.783300971,0,800,250,
+Site Load,,,,,,,0,,,,0

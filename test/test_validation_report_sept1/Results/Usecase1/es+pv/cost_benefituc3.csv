@@ -1,0 +1,15 @@
+,Cost ($),Benefit ($)
+Lifetime Present Value,6012194.398338506,7185235.991409371
+Avoided Demand Charge,0.0,2697897.8198360046
+Avoided Energy Charge,0.0,4487338.171573366
+BATTERY: es Capital Cost,4197500.0,0.0
+BATTERY: es Decommissioning Cost,0.0,0.0
+BATTERY: es Fixed O&M Cost,214694.39833850553,0.0
+BATTERY: es Salvage Value,0.0,0.0
+BATTERY: es Variable O&M Cost,0.0,0.0
+LOAD: Site Load Decommissioning Cost,0.0,0.0
+LOAD: Site Load Replacement Costs,0.0,0.0
+Overall Tax Burden,0.0,0.0
+PV: solar1 Capital Cost,1600000.0,0.0
+PV: solar1 Decommissioning Cost,0.0,0.0
+PV: solar1 Salvage Value,0.0,0.0

@@ -1,0 +1,16 @@
+Billing Period,Start Month,End Month,Start Time,End Time,Excluding Start Time,Excluding End Time,Weekday?,Value,Charge,Name
+1,1,5,1,8,,,1,0.054152,Energy,Winter Offpeak
+2,1,5,9,21,,,1,0.062392,Energy,Winter Mid-peak
+3,1,5,22,24,,,1,0.054152,Energy,Winter Offpeak
+4,1,5,1,24,,,0,0.054152,Energy,Winter Weekend
+5,6,9,1,8,,,1,0.049672,Energy,Summer Offpeak
+6,6,9,9,12,,,1,0.086152,Energy,Summer Mid-peak
+7,6,9,13,18,,,1,0.262392,Energy,Summer Peak
+8,6,9,19,23,,,1,0.086152,Energy,Summer Mid-peak
+9,6,9,24,24,,,1,0.049672,Energy,Summer Offpeak
+10,6,9,1,24,,,0,0.049672,Energy,Summer Weekend
+11,10,12,1,8,,,1,0.054152,Energy,Winter Offpeak
+12,10,12,9,21,,,1,0.062392,Energy,Winter Peak
+13,10,12,22,24,,,1,0.054152,Energy,Winter Offpeak
+14,10,12,1,24,,,0,0.054152,Energy,Winter Weekend
+15,1,12,1,24,,,2,7.016,Demand,Demand Charge

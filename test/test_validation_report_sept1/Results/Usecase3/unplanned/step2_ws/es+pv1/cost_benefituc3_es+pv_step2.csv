@@ -1,0 +1,15 @@
+,Cost ($),Benefit ($)
+Lifetime Present Value,5851826.684588262,2548475.864324489
+BATTERY: es Capital Cost,3980900.0,0.0
+BATTERY: es Decommissioning Cost,0.0,0.0
+BATTERY: es Fixed O&M Cost,270926.68458826205,0.0
+BATTERY: es Salvage Value,0.0,0.0
+BATTERY: es Variable O&M Cost,0.0,0.0
+DA ETS,0.0,836990.899208675
+FR Energy Throughput,0.0,795965.5297233661
+Overall Tax Burden,0.0,0.0
+PV: solar1 Capital Cost,1600000.0,0.0
+PV: solar1 Decommissioning Cost,0.0,0.0
+Regulation Down,0.0,380976.9944077155
+Regulation Up,0.0,525108.4787205814
+User Constraints Value,0.0,9433.962264150943

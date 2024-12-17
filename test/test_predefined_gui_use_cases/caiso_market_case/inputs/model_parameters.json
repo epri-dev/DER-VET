@@ -1,0 +1,1059 @@
+{
+  "name": "CAISO Pre-Defined Case",
+  "tags": {
+    "Backup": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Battery": {
+      "6df8d64d-cc1a-43ce-83f1-faac14c8eef7": {
+        "active": "yes",
+        "keys": {
+          "OMexpenses": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ccost": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ccost_kW": {
+            "opt_value": "800",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ccost_kWh": {
+            "opt_value": "200",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ch_max_rated": {
+            "opt_value": "1000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ch_min_rated": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "construction_year": {
+            "opt_value": "2019",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "Period"
+          },
+          "cycle_life_filename": {
+            "opt_value": "./test/test_predefined_gui_use_cases/caiso_market_case/inputs/cycle.csv",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "cycle_life_table_eol_condition": {
+            "opt_value": "80",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "daily_cycle_limit": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "decommissioning_cost": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "dis_max_rated": {
+            "opt_value": "1000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "dis_min_rated": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "duration_max": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ecc%": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ene_max_rated": {
+            "opt_value": "4000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "expected_lifetime": {
+            "opt_value": "10",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "fixedOM": {
+            "opt_value": "10",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "hp": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "incl_cycle_degrade": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "incl_ts_charge_limits": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "incl_ts_discharge_limits": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "incl_ts_energy_limits": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "llsoc": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "macrs_term": {
+            "opt_value": "5",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "name": {
+            "opt_value": "4-hr Li-ion",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "nsr_response_time": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "operation_year": {
+            "opt_value": "2020",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "Period"
+          },
+          "p_start_ch": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "p_start_dis": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "rcost": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "rcost_kW": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "rcost_kWh": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "replaceable": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "replacement_construction_time": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "rte": {
+            "opt_value": "85",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "salvage_value": {
+            "opt_value": "Sunk Cost",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string/int"
+          },
+          "sdr": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "soc_target": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "sr_response_time": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "startup": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "startup_time": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "state_of_health": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ter": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "ulsoc": {
+            "opt_value": "100",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_ch_rated_max": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_ch_rated_min": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_dis_rated_max": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_dis_rated_min": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_ene_rated_max": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "user_ene_rated_min": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "yearly_degrade": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          }
+        }
+      }
+    },
+    "ControllableLoad": {
+      "": {
+        "active": "no"
+      }
+    },
+    "DA": {
+      "": {
+        "active": "yes",
+        "keys": {
+          "growth": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          }
+        }
+      }
+    },
+    "DCM": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Deferral": {
+      "": {
+        "active": "no"
+      }
+    },
+    "DieselGenset": {
+      "": {
+        "active": "no"
+      }
+    },
+    "DR": {
+      "": {
+        "active": "no"
+      }
+    },
+    "ElectricVehicle1": {
+      "": {
+        "active": "no"
+      }
+    },
+    "ElectricVehicle2": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Finance": {
+      "": {
+        "active": "yes",
+        "keys": {
+          "analysis_horizon_mode": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "int"
+          },
+          "customer_tariff_filename": {
+            "opt_value": "./test/test_predefined_gui_use_cases/caiso_market_case/inputs/tariff.csv",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "ecc_mode": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "external_incentives": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "federal_tax_rate": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "fuel_price_gas": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "fuel_price_liquid": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "fuel_price_other": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "inflation_rate": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "npv_discount_rate": {
+            "opt_value": "7",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "property_tax_rate": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "state_tax_rate": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "yearly_data_filename": {
+            "opt_value": "./test/test_predefined_gui_use_cases/caiso_market_case/inputs/yearly.csv",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          }
+        }
+      }
+    },
+    "FR": {
+      "": {
+        "active": "yes",
+        "keys": {
+          "CombinedMarket": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "d_ts_constraints": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "duration": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "energyprice_growth": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "eod": {
+            "opt_value": "0.15",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "eou": {
+            "opt_value": "0.3",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "growth": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "u_ts_constraints": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          }
+        }
+      }
+    },
+    "ICE": {
+      "": {
+        "active": "no"
+      }
+    },
+    "LF": {
+      "": {
+        "active": "no"
+      }
+    },
+    "NSR": {
+      "": {
+        "active": "no"
+      }
+    },
+    "PV": {
+      "": {
+        "active": "no"
+      }
+    },
+    "RA": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Reliability": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Results": {
+      "": {
+        "active": "no",
+        "keys": {
+          "dir_absolute_path": {
+            "opt_value": "",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "errors_log_path": {
+            "opt_value": "",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "label": {
+            "opt_value": "",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          }
+        }
+      }
+    },
+    "retailTimeShift": {
+      "": {
+        "active": "no"
+      }
+    },
+    "Scenario": {
+      "": {
+        "active": "yes",
+        "keys": {
+          "activate_electricity_load_dump": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "apply_interconnection_constraints": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "binary": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "def_growth": {
+            "opt_value": "2",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "dt": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "end_year": {
+            "opt_value": "2029",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "Period"
+          },
+          "incl_site_load": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "incl_thermal_load": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "kappa_ch_max": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "kappa_ch_min": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "kappa_dis_max": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "kappa_dis_min": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "kappa_ene_max": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "kappa_ene_min": {
+            "opt_value": "100000",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "location": {
+            "opt_value": "generation",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "max_export": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "max_import": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "float"
+          },
+          "monthly_data_filename": {
+            "opt_value": "./test/test_predefined_gui_use_cases/caiso_market_case/inputs/monthly.csv",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "n": {
+            "opt_value": "24",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string/int"
+          },
+          "opt_years": {
+            "opt_value": "2020",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "list/int"
+          },
+          "ownership": {
+            "opt_value": "3rd party",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "slack": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "start_year": {
+            "opt_value": "2020",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "Period"
+          },
+          "time_series_filename": {
+            "opt_value": "./test/test_predefined_gui_use_cases/caiso_market_case/inputs/timeseries.csv",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "string"
+          },
+          "verbose": {
+            "opt_value": "1",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          },
+          "verbose_opt": {
+            "opt_value": "0",
+            "sensitivity": {
+              "active": "no",
+              "coupled": "None",
+              "value": "nan"
+            },
+            "type": "bool"
+          }
+        }
+      }
+    },
+    "SR": {
+      "": {
+        "active": "no"
+      }
+    },
+    "User": {
+      "": {
+        "active": "no"
+      }
+    }
+  }
+}

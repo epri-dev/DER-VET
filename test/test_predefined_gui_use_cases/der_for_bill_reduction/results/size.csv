@@ -1,0 +1,4 @@
+DER,Energy Rating (kWh),Charge Rating (kW),Discharge Rating (kW),Round Trip Efficiency (%),Lower Limit on SOC (%),Upper Limit on SOC (%),Duration (hours),Capital Cost ($),Capital Cost ($/kW),Capital Cost ($/kWh),Power Capacity (kW)
+bess 1,9450.0,1575.0,1575.0,91.0,0.0,100.0,6.0,0.0,800.0,250.0,
+installation 1,,,,,,,,,1660.0,,1000.0
+Site Load,,,,,,,0.0,,,,0.0

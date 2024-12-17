@@ -1,0 +1,5 @@
+Billing Period,Start Month,End Month,Start Time,End Time,Excluding Start Time,Excluding End Time,Weekday?,Value,Charge,Name
+2,6,9,17,21,,,1,33.89,Demand,Summer On-Peak Demand Charge
+7,1,5,17,21,,,1,8.17,Demand,Winter Mid Peak Demand Charge
+11,10,12,17,21,,,1,8.17,Demand,Winter Mid Peak Demand Charge
+14,1,12,1,24,,,2,13.37,Demand,Facility Demand Charge
